@@ -13,6 +13,6 @@ Assets are shown for the months of the last year for the companies:
   - Toyota
   - Volvo
 
-![Result ]([url completa de la imagen](https://github.com/bfran02/genetic-algorithm-investmentPortfolio/blob/main/Result.JPG)
+![Result ]([https://github.com/bfran02/genetic-algorithm-investmentPortfolio/blob/main/Result.JPG])
 
 
